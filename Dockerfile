@@ -13,3 +13,4 @@ ENV PORT=5001
 ENV NODE_ENV=production
 EXPOSE 5001
 CMD ["serve", "-s", ".", "-l", "5001"]
+
